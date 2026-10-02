@@ -12,18 +12,27 @@
 
 ---
 
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
 ## What I Do / O Que Faço
 
 - **IT Support** — Technical support for SaaS fiscal systems (invoicing)
 - **Automation** — Internal tools with Python and Playwright
 - **APIs & SQL** — System integration and database troubleshooting
 - **Learning** — Backend development, AI, and software engineering
-
----
-
-## Tech Stack
-
-`Python` `Playwright` `SQL` `APIs` `Git` `GitHub` `VS Code` `Automation` `HTML` `CSS` `JavaScript`
 
 ---
 
@@ -38,8 +47,8 @@
 
 ## Connect / Conecte-se
 
-- [LinkedIn](https://www.linkedin.com/in/leandro-de-lima-santos-58b83b330/)
-- [GitHub](https://github.com/1eandr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-de-lima-santos-58b83b330/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1eandr)
 
 ---
 
