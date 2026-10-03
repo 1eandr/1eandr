@@ -43,4 +43,4 @@ Site com experiência, trilha, tecnologias e próximos passos — em PT/EN, com 
 
 ---
 
-<sub>Feito com React, Vite e React Bits.</sub>
+<sub>Feito com React, Vite e CSS próprio — estética de terminal.</sub>

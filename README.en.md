@@ -43,4 +43,4 @@ Site with experience, journey, stack and next steps — PT/EN, dark mode:
 
 ---
 
-<sub>Built with React, Vite and React Bits.</sub>
+<sub>Built with React, Vite and vanilla CSS — terminal aesthetic.</sub>
